@@ -5,7 +5,6 @@ This project contains C++ programs that draw alphabet letters using stars (`*`) 
 - A — Alphabet A
 - B — Alphabet B
 - C — Alphabet C
-- D — Alphabet D
 - E — Alphabet E
 - F — Alphabet F
 ## Concepts Used
